@@ -31,7 +31,7 @@
         <li>🌱 <b>Deep Diving:</b> Multi-Agent Systems, MCP Protocol, A2A, Kubernetes, LangGraph</li>
         <li>👯 <b>Collaborate:</b> Open to AI/ML research, hackathons, and agentic system projects</li>
         <li>💬 <b>Ask Me About:</b> Python, TypeScript, Agentic AI, LangChain, MERN Stack, Firebase</li>
-        <li>📫 <b>Reach Me:</b> <a href="mailto:madihaayaz@email.com">madihaayaz@email.com</a></li>
+        <li>📫 <b>Reach Me:</b> <a href="mailto:madihaayaz248@gmail.com">madihaayaz248@gmail.com</a></li>
       </ul>
     </td>
     <td width="38%" align="center">
@@ -340,13 +340,13 @@
 <h3 align="center">🤝 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/madiha-ayaz">
+  <a href="https://www.linkedin.com/in/madiha-ayaz-ba68512b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Madiha-Ayaz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:madihaayaz@email.com">
+  <a href="mailto:madihaayaz248@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://madiha-ayaz.dev">
